@@ -1,0 +1,14 @@
+{
+  "name": "pdfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "commit": "versiwfekit-verify-commit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@versiwfekit/verify-commit": "^1.0.1"
+  }
+}
